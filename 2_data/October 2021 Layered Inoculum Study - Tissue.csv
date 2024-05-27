@@ -1,0 +1,1051 @@
+Timepoint,Treatment,Tissue,Replicate,Plate,Amount of Tissue (g)
+3,Control,Crown,A,1,0.15
+3,Control,Crown,A,2,0.15
+3,Control,Crown,A,3,0.15
+3,Control,Crown,A,4,0.15
+3,Control,Crown,A,5,0.15
+3,Control,Crown,A,6,0.15
+3,Control,Crown,A,7,0.15
+3,Control,Crown,B,1,0.15
+3,Control,Crown,B,2,0.15
+3,Control,Crown,B,3,0.15
+3,Control,Crown,B,4,0.15
+3,Control,Crown,B,5,0.15
+3,Control,Crown,B,6,0.15
+3,Control,Crown,B,7,0.15
+3,Control,Crown,C,1,0.15
+3,Control,Crown,C,2,0.15
+3,Control,Crown,C,3,0.15
+3,Control,Crown,C,4,0.15
+3,Control,Crown,C,5,0.15
+3,Control,Crown,C,6,0.15
+3,Control,Crown,C,7,0.15
+3,Control,Crown,D,1,0.15
+3,Control,Crown,D,2,0.15
+3,Control,Crown,D,3,0.15
+3,Control,Crown,D,4,0.15
+3,Control,Crown,D,5,0.15
+3,Control,Crown,D,6,0.15
+3,Control,Crown,D,7,0.15
+3,Control,Crown,E,1,0.15
+3,Control,Crown,E,2,0.15
+3,Control,Crown,E,3,0.15
+3,Control,Crown,E,4,0.15
+3,Control,Crown,E,5,0.15
+3,Control,Crown,E,6,0.15
+3,Control,Crown,E,7,0.15
+3,Control,Roots,A,1,0.15
+3,Control,Roots,A,2,0.15
+3,Control,Roots,A,3,0.15
+3,Control,Roots,A,4,0.15
+3,Control,Roots,A,5,0.15
+3,Control,Roots,A,6,0.15
+3,Control,Roots,A,7,0.15
+3,Control,Roots,B,1,0.15
+3,Control,Roots,B,2,0.15
+3,Control,Roots,B,3,0.15
+3,Control,Roots,B,4,0.15
+3,Control,Roots,B,5,0.15
+3,Control,Roots,B,6,0.15
+3,Control,Roots,B,7,0.15
+3,Control,Roots,C,1,0.15
+3,Control,Roots,C,2,0.15
+3,Control,Roots,C,3,0.15
+3,Control,Roots,C,4,0.15
+3,Control,Roots,C,5,0.15
+3,Control,Roots,C,6,0.15
+3,Control,Roots,C,7,0.15
+3,Control,Roots,D,1,0.15
+3,Control,Roots,D,2,0.15
+3,Control,Roots,D,3,0.15
+3,Control,Roots,D,4,0.15
+3,Control,Roots,D,5,0.15
+3,Control,Roots,D,6,0.15
+3,Control,Roots,D,7,0.15
+3,Control,Roots,E,1,0.15
+3,Control,Roots,E,2,0.15
+3,Control,Roots,E,3,0.15
+3,Control,Roots,E,4,0.15
+3,Control,Roots,E,5,0.15
+3,Control,Roots,E,6,0.15
+3,Control,Roots,E,7,0.15
+3,Crown Inoculation,Crown,A,1,0.15
+3,Crown Inoculation,Crown,A,2,0.15
+3,Crown Inoculation,Crown,A,3,0.15
+3,Crown Inoculation,Crown,A,4,0.15
+3,Crown Inoculation,Crown,A,5,0.15
+3,Crown Inoculation,Crown,A,6,0.15
+3,Crown Inoculation,Crown,A,7,0.15
+3,Crown Inoculation,Crown,B,1,0.15
+3,Crown Inoculation,Crown,B,2,0.15
+3,Crown Inoculation,Crown,B,3,0.15
+3,Crown Inoculation,Crown,B,4,0.15
+3,Crown Inoculation,Crown,B,5,0.15
+3,Crown Inoculation,Crown,B,6,0.15
+3,Crown Inoculation,Crown,B,7,0.15
+3,Crown Inoculation,Crown,C,1,0.15
+3,Crown Inoculation,Crown,C,2,0.15
+3,Crown Inoculation,Crown,C,3,0.15
+3,Crown Inoculation,Crown,C,4,0.15
+3,Crown Inoculation,Crown,C,5,0.15
+3,Crown Inoculation,Crown,C,6,0.15
+3,Crown Inoculation,Crown,C,7,0.15
+3,Crown Inoculation,Crown,D,1,0.15
+3,Crown Inoculation,Crown,D,2,0.15
+3,Crown Inoculation,Crown,D,3,0.15
+3,Crown Inoculation,Crown,D,4,0.15
+3,Crown Inoculation,Crown,D,5,0.15
+3,Crown Inoculation,Crown,D,6,0.15
+3,Crown Inoculation,Crown,D,7,0.15
+3,Crown Inoculation,Crown,E,1,0.15
+3,Crown Inoculation,Crown,E,2,0.15
+3,Crown Inoculation,Crown,E,3,0.15
+3,Crown Inoculation,Crown,E,4,0.15
+3,Crown Inoculation,Crown,E,5,0.15
+3,Crown Inoculation,Crown,E,6,0.15
+3,Crown Inoculation,Crown,E,7,0.15
+3,Crown Inoculation,Roots,A,1,0.15
+3,Crown Inoculation,Roots,A,2,0.15
+3,Crown Inoculation,Roots,A,3,0.15
+3,Crown Inoculation,Roots,A,4,0.15
+3,Crown Inoculation,Roots,A,5,0.15
+3,Crown Inoculation,Roots,A,6,0.15
+3,Crown Inoculation,Roots,A,7,0.15
+3,Crown Inoculation,Roots,B,1,0.15
+3,Crown Inoculation,Roots,B,2,0.15
+3,Crown Inoculation,Roots,B,3,0.15
+3,Crown Inoculation,Roots,B,4,0.15
+3,Crown Inoculation,Roots,B,5,0.15
+3,Crown Inoculation,Roots,B,6,0.15
+3,Crown Inoculation,Roots,B,7,0.15
+3,Crown Inoculation,Roots,C,1,0.15
+3,Crown Inoculation,Roots,C,2,0.15
+3,Crown Inoculation,Roots,C,3,0.15
+3,Crown Inoculation,Roots,C,4,0.15
+3,Crown Inoculation,Roots,C,5,0.15
+3,Crown Inoculation,Roots,C,6,0.15
+3,Crown Inoculation,Roots,C,7,0.15
+3,Crown Inoculation,Roots,D,1,0.15
+3,Crown Inoculation,Roots,D,2,0.15
+3,Crown Inoculation,Roots,D,3,0.15
+3,Crown Inoculation,Roots,D,4,0.15
+3,Crown Inoculation,Roots,D,5,0.15
+3,Crown Inoculation,Roots,D,6,0.15
+3,Crown Inoculation,Roots,D,7,0.15
+3,Crown Inoculation,Roots,E,1,0.15
+3,Crown Inoculation,Roots,E,2,0.15
+3,Crown Inoculation,Roots,E,3,0.15
+3,Crown Inoculation,Roots,E,4,0.15
+3,Crown Inoculation,Roots,E,5,0.15
+3,Crown Inoculation,Roots,E,6,0.15
+3,Crown Inoculation,Roots,E,7,0.15
+3,Root Inoculation,Crown,A,1,0.15
+3,Root Inoculation,Crown,A,2,0.15
+3,Root Inoculation,Crown,A,3,0.15
+3,Root Inoculation,Crown,A,4,0.15
+3,Root Inoculation,Crown,A,5,0.15
+3,Root Inoculation,Crown,A,6,0.15
+3,Root Inoculation,Crown,A,7,0.15
+3,Root Inoculation,Crown,B,1,0.15
+3,Root Inoculation,Crown,B,2,0.15
+3,Root Inoculation,Crown,B,3,0.15
+3,Root Inoculation,Crown,B,4,0.15
+3,Root Inoculation,Crown,B,5,0.15
+3,Root Inoculation,Crown,B,6,0.15
+3,Root Inoculation,Crown,B,7,0.15
+3,Root Inoculation,Crown,C,1,0.15
+3,Root Inoculation,Crown,C,2,0.15
+3,Root Inoculation,Crown,C,3,0.15
+3,Root Inoculation,Crown,C,4,0.15
+3,Root Inoculation,Crown,C,5,0.15
+3,Root Inoculation,Crown,C,6,0.15
+3,Root Inoculation,Crown,C,7,0.15
+3,Root Inoculation,Crown,D,1,0.15
+3,Root Inoculation,Crown,D,2,0.15
+3,Root Inoculation,Crown,D,3,0.15
+3,Root Inoculation,Crown,D,4,0.15
+3,Root Inoculation,Crown,D,5,0.15
+3,Root Inoculation,Crown,D,6,0.15
+3,Root Inoculation,Crown,D,7,0.15
+3,Root Inoculation,Crown,E,1,0.15
+3,Root Inoculation,Crown,E,2,0.15
+3,Root Inoculation,Crown,E,3,0.15
+3,Root Inoculation,Crown,E,4,0.15
+3,Root Inoculation,Crown,E,5,0.15
+3,Root Inoculation,Crown,E,6,0.15
+3,Root Inoculation,Crown,E,7,0.15
+3,Root Inoculation,Roots,A,1,0.15
+3,Root Inoculation,Roots,A,2,0.15
+3,Root Inoculation,Roots,A,3,0.15
+3,Root Inoculation,Roots,A,4,0.15
+3,Root Inoculation,Roots,A,5,0.15
+3,Root Inoculation,Roots,A,6,0.15
+3,Root Inoculation,Roots,A,7,0.15
+3,Root Inoculation,Roots,B,1,0.15
+3,Root Inoculation,Roots,B,2,0.15
+3,Root Inoculation,Roots,B,3,0.15
+3,Root Inoculation,Roots,B,4,0.15
+3,Root Inoculation,Roots,B,5,0.15
+3,Root Inoculation,Roots,B,6,0.15
+3,Root Inoculation,Roots,B,7,0.15
+3,Root Inoculation,Roots,C,1,0.15
+3,Root Inoculation,Roots,C,2,0.15
+3,Root Inoculation,Roots,C,3,0.15
+3,Root Inoculation,Roots,C,4,0.15
+3,Root Inoculation,Roots,C,5,0.15
+3,Root Inoculation,Roots,C,6,0.15
+3,Root Inoculation,Roots,C,7,0.15
+3,Root Inoculation,Roots,D,1,0.15
+3,Root Inoculation,Roots,D,2,0.15
+3,Root Inoculation,Roots,D,3,0.15
+3,Root Inoculation,Roots,D,4,0.15
+3,Root Inoculation,Roots,D,5,0.15
+3,Root Inoculation,Roots,D,6,0.15
+3,Root Inoculation,Roots,D,7,0.15
+3,Root Inoculation,Roots,E,1,0.15
+3,Root Inoculation,Roots,E,2,0.15
+3,Root Inoculation,Roots,E,3,0.15
+3,Root Inoculation,Roots,E,4,0.15
+3,Root Inoculation,Roots,E,5,0.15
+3,Root Inoculation,Roots,E,6,0.15
+3,Root Inoculation,Roots,E,7,0.15
+7,Control,Crown,A,1,0.15
+7,Control,Crown,A,2,0.15
+7,Control,Crown,A,3,0.15
+7,Control,Crown,A,4,0.15
+7,Control,Crown,A,5,0.15
+7,Control,Crown,A,6,0.15
+7,Control,Crown,A,7,0.15
+7,Control,Crown,B,1,0.15
+7,Control,Crown,B,2,0.15
+7,Control,Crown,B,3,0.15
+7,Control,Crown,B,4,0.15
+7,Control,Crown,B,5,0.15
+7,Control,Crown,B,6,0.15
+7,Control,Crown,B,7,0.15
+7,Control,Crown,C,1,0.04
+7,Control,Crown,C,2,0.04
+7,Control,Crown,C,3,0.04
+7,Control,Crown,C,4,0.04
+7,Control,Crown,C,5,0.04
+7,Control,Crown,C,6,0.04
+7,Control,Crown,C,7,0.04
+7,Control,Crown,D,1,0.13
+7,Control,Crown,D,2,0.13
+7,Control,Crown,D,3,0.13
+7,Control,Crown,D,4,0.13
+7,Control,Crown,D,5,0.13
+7,Control,Crown,D,6,0.13
+7,Control,Crown,D,7,0.13
+7,Control,Crown,E,1,0.15
+7,Control,Crown,E,2,0.15
+7,Control,Crown,E,3,0.15
+7,Control,Crown,E,4,0.15
+7,Control,Crown,E,5,0.15
+7,Control,Crown,E,6,0.15
+7,Control,Crown,E,7,0.15
+7,Control,Roots,A,1,0.15
+7,Control,Roots,A,2,0.15
+7,Control,Roots,A,3,0.15
+7,Control,Roots,A,4,0.15
+7,Control,Roots,A,5,0.15
+7,Control,Roots,A,6,0.15
+7,Control,Roots,A,7,0.15
+7,Control,Roots,B,1,0.15
+7,Control,Roots,B,2,0.15
+7,Control,Roots,B,3,0.15
+7,Control,Roots,B,4,0.15
+7,Control,Roots,B,5,0.15
+7,Control,Roots,B,6,0.15
+7,Control,Roots,B,7,0.15
+7,Control,Roots,C,1,0.15
+7,Control,Roots,C,2,0.15
+7,Control,Roots,C,3,0.15
+7,Control,Roots,C,4,0.15
+7,Control,Roots,C,5,0.15
+7,Control,Roots,C,6,0.15
+7,Control,Roots,C,7,0.15
+7,Control,Roots,D,1,0.15
+7,Control,Roots,D,2,0.15
+7,Control,Roots,D,3,0.15
+7,Control,Roots,D,4,0.15
+7,Control,Roots,D,5,0.15
+7,Control,Roots,D,6,0.15
+7,Control,Roots,D,7,0.15
+7,Control,Roots,E,1,0.15
+7,Control,Roots,E,2,0.15
+7,Control,Roots,E,3,0.15
+7,Control,Roots,E,4,0.15
+7,Control,Roots,E,5,0.15
+7,Control,Roots,E,6,0.15
+7,Control,Roots,E,7,0.15
+7,Crown Inoculation,Crown,A,1,0.15
+7,Crown Inoculation,Crown,A,2,0.15
+7,Crown Inoculation,Crown,A,3,0.15
+7,Crown Inoculation,Crown,A,4,0.15
+7,Crown Inoculation,Crown,A,5,0.15
+7,Crown Inoculation,Crown,A,6,0.15
+7,Crown Inoculation,Crown,A,7,0.15
+7,Crown Inoculation,Crown,B,1,0.15
+7,Crown Inoculation,Crown,B,2,0.15
+7,Crown Inoculation,Crown,B,3,0.15
+7,Crown Inoculation,Crown,B,4,0.15
+7,Crown Inoculation,Crown,B,5,0.15
+7,Crown Inoculation,Crown,B,6,0.15
+7,Crown Inoculation,Crown,B,7,0.15
+7,Crown Inoculation,Crown,C,1,0.15
+7,Crown Inoculation,Crown,C,2,0.15
+7,Crown Inoculation,Crown,C,3,0.15
+7,Crown Inoculation,Crown,C,4,0.15
+7,Crown Inoculation,Crown,C,5,0.15
+7,Crown Inoculation,Crown,C,6,0.15
+7,Crown Inoculation,Crown,C,7,0.15
+7,Crown Inoculation,Crown,D,1,0.15
+7,Crown Inoculation,Crown,D,2,0.15
+7,Crown Inoculation,Crown,D,3,0.15
+7,Crown Inoculation,Crown,D,4,0.15
+7,Crown Inoculation,Crown,D,5,0.15
+7,Crown Inoculation,Crown,D,6,0.15
+7,Crown Inoculation,Crown,D,7,0.15
+7,Crown Inoculation,Crown,E,1,0.15
+7,Crown Inoculation,Crown,E,2,0.15
+7,Crown Inoculation,Crown,E,3,0.15
+7,Crown Inoculation,Crown,E,4,0.15
+7,Crown Inoculation,Crown,E,5,0.15
+7,Crown Inoculation,Crown,E,6,0.15
+7,Crown Inoculation,Crown,E,7,0.15
+7,Crown Inoculation,Roots,A,1,0.15
+7,Crown Inoculation,Roots,A,2,0.15
+7,Crown Inoculation,Roots,A,3,0.15
+7,Crown Inoculation,Roots,A,4,0.15
+7,Crown Inoculation,Roots,A,5,0.15
+7,Crown Inoculation,Roots,A,6,0.15
+7,Crown Inoculation,Roots,A,7,0.15
+7,Crown Inoculation,Roots,B,1,0.15
+7,Crown Inoculation,Roots,B,2,0.15
+7,Crown Inoculation,Roots,B,3,0.15
+7,Crown Inoculation,Roots,B,4,0.15
+7,Crown Inoculation,Roots,B,5,0.15
+7,Crown Inoculation,Roots,B,6,0.15
+7,Crown Inoculation,Roots,B,7,0.15
+7,Crown Inoculation,Roots,C,1,0.15
+7,Crown Inoculation,Roots,C,2,0.15
+7,Crown Inoculation,Roots,C,3,0.15
+7,Crown Inoculation,Roots,C,4,0.15
+7,Crown Inoculation,Roots,C,5,0.15
+7,Crown Inoculation,Roots,C,6,0.15
+7,Crown Inoculation,Roots,C,7,0.15
+7,Crown Inoculation,Roots,D,1,0.15
+7,Crown Inoculation,Roots,D,2,0.15
+7,Crown Inoculation,Roots,D,3,0.15
+7,Crown Inoculation,Roots,D,4,0.15
+7,Crown Inoculation,Roots,D,5,0.15
+7,Crown Inoculation,Roots,D,6,0.15
+7,Crown Inoculation,Roots,D,7,0.15
+7,Crown Inoculation,Roots,E,1,0.15
+7,Crown Inoculation,Roots,E,2,0.15
+7,Crown Inoculation,Roots,E,3,0.15
+7,Crown Inoculation,Roots,E,4,0.15
+7,Crown Inoculation,Roots,E,5,0.15
+7,Crown Inoculation,Roots,E,6,0.15
+7,Crown Inoculation,Roots,E,7,0.15
+7,Root Inoculation,Crown,A,1,0.15
+7,Root Inoculation,Crown,A,2,0.15
+7,Root Inoculation,Crown,A,3,0.15
+7,Root Inoculation,Crown,A,4,0.15
+7,Root Inoculation,Crown,A,5,0.15
+7,Root Inoculation,Crown,A,6,0.15
+7,Root Inoculation,Crown,A,7,0.15
+7,Root Inoculation,Crown,B,1,0.15
+7,Root Inoculation,Crown,B,2,0.15
+7,Root Inoculation,Crown,B,3,0.15
+7,Root Inoculation,Crown,B,4,0.15
+7,Root Inoculation,Crown,B,5,0.15
+7,Root Inoculation,Crown,B,6,0.15
+7,Root Inoculation,Crown,B,7,0.15
+7,Root Inoculation,Crown,C,1,0.15
+7,Root Inoculation,Crown,C,2,0.15
+7,Root Inoculation,Crown,C,3,0.15
+7,Root Inoculation,Crown,C,4,0.15
+7,Root Inoculation,Crown,C,5,0.15
+7,Root Inoculation,Crown,C,6,0.15
+7,Root Inoculation,Crown,C,7,0.15
+7,Root Inoculation,Crown,D,1,0.15
+7,Root Inoculation,Crown,D,2,0.15
+7,Root Inoculation,Crown,D,3,0.15
+7,Root Inoculation,Crown,D,4,0.15
+7,Root Inoculation,Crown,D,5,0.15
+7,Root Inoculation,Crown,D,6,0.15
+7,Root Inoculation,Crown,D,7,0.15
+7,Root Inoculation,Crown,E,1,0.15
+7,Root Inoculation,Crown,E,2,0.15
+7,Root Inoculation,Crown,E,3,0.15
+7,Root Inoculation,Crown,E,4,0.15
+7,Root Inoculation,Crown,E,5,0.15
+7,Root Inoculation,Crown,E,6,0.15
+7,Root Inoculation,Crown,E,7,0.15
+7,Root Inoculation,Roots,A,1,0.15
+7,Root Inoculation,Roots,A,2,0.15
+7,Root Inoculation,Roots,A,3,0.15
+7,Root Inoculation,Roots,A,4,0.15
+7,Root Inoculation,Roots,A,5,0.15
+7,Root Inoculation,Roots,A,6,0.15
+7,Root Inoculation,Roots,A,7,0.15
+7,Root Inoculation,Roots,B,1,0.15
+7,Root Inoculation,Roots,B,2,0.15
+7,Root Inoculation,Roots,B,3,0.15
+7,Root Inoculation,Roots,B,4,0.15
+7,Root Inoculation,Roots,B,5,0.15
+7,Root Inoculation,Roots,B,6,0.15
+7,Root Inoculation,Roots,B,7,0.15
+7,Root Inoculation,Roots,C,1,0.15
+7,Root Inoculation,Roots,C,2,0.15
+7,Root Inoculation,Roots,C,3,0.15
+7,Root Inoculation,Roots,C,4,0.15
+7,Root Inoculation,Roots,C,5,0.15
+7,Root Inoculation,Roots,C,6,0.15
+7,Root Inoculation,Roots,C,7,0.15
+7,Root Inoculation,Roots,D,1,0.15
+7,Root Inoculation,Roots,D,2,0.15
+7,Root Inoculation,Roots,D,3,0.15
+7,Root Inoculation,Roots,D,4,0.15
+7,Root Inoculation,Roots,D,5,0.15
+7,Root Inoculation,Roots,D,6,0.15
+7,Root Inoculation,Roots,D,7,0.15
+7,Root Inoculation,Roots,E,1,0.15
+7,Root Inoculation,Roots,E,2,0.15
+7,Root Inoculation,Roots,E,3,0.15
+7,Root Inoculation,Roots,E,4,0.15
+7,Root Inoculation,Roots,E,5,0.15
+7,Root Inoculation,Roots,E,6,0.15
+7,Root Inoculation,Roots,E,7,0.15
+14,Control,Crown,A,1,0.15
+14,Control,Crown,A,2,0.15
+14,Control,Crown,A,3,0.15
+14,Control,Crown,A,4,0.15
+14,Control,Crown,A,5,0.15
+14,Control,Crown,A,6,0.15
+14,Control,Crown,A,7,0.15
+14,Control,Crown,B,1,0.13
+14,Control,Crown,B,2,0.13
+14,Control,Crown,B,3,0.13
+14,Control,Crown,B,4,0.13
+14,Control,Crown,B,5,0.13
+14,Control,Crown,B,6,0.13
+14,Control,Crown,B,7,0.13
+14,Control,Crown,C,1,0.07
+14,Control,Crown,C,2,0.07
+14,Control,Crown,C,3,0.07
+14,Control,Crown,C,4,0.07
+14,Control,Crown,C,5,0.07
+14,Control,Crown,C,6,0.07
+14,Control,Crown,C,7,0.07
+14,Control,Crown,D,1,0.11
+14,Control,Crown,D,2,0.11
+14,Control,Crown,D,3,0.11
+14,Control,Crown,D,4,0.11
+14,Control,Crown,D,5,0.11
+14,Control,Crown,D,6,0.11
+14,Control,Crown,D,7,0.11
+14,Control,Crown,E,1,0.15
+14,Control,Crown,E,2,0.15
+14,Control,Crown,E,3,0.15
+14,Control,Crown,E,4,0.15
+14,Control,Crown,E,5,0.15
+14,Control,Crown,E,6,0.15
+14,Control,Crown,E,7,0.15
+14,Control,Roots,A,1,0.15
+14,Control,Roots,A,2,0.15
+14,Control,Roots,A,3,0.15
+14,Control,Roots,A,4,0.15
+14,Control,Roots,A,5,0.15
+14,Control,Roots,A,6,0.15
+14,Control,Roots,A,7,0.15
+14,Control,Roots,B,1,0.15
+14,Control,Roots,B,2,0.15
+14,Control,Roots,B,3,0.15
+14,Control,Roots,B,4,0.15
+14,Control,Roots,B,5,0.15
+14,Control,Roots,B,6,0.15
+14,Control,Roots,B,7,0.15
+14,Control,Roots,C,1,0.15
+14,Control,Roots,C,2,0.15
+14,Control,Roots,C,3,0.15
+14,Control,Roots,C,4,0.15
+14,Control,Roots,C,5,0.15
+14,Control,Roots,C,6,0.15
+14,Control,Roots,C,7,0.15
+14,Control,Roots,D,1,0.15
+14,Control,Roots,D,2,0.15
+14,Control,Roots,D,3,0.15
+14,Control,Roots,D,4,0.15
+14,Control,Roots,D,5,0.15
+14,Control,Roots,D,6,0.15
+14,Control,Roots,D,7,0.15
+14,Control,Roots,E,1,0.15
+14,Control,Roots,E,2,0.15
+14,Control,Roots,E,3,0.15
+14,Control,Roots,E,4,0.15
+14,Control,Roots,E,5,0.15
+14,Control,Roots,E,6,0.15
+14,Control,Roots,E,7,0.15
+14,Crown Inoculation,Crown,A,1,0
+14,Crown Inoculation,Crown,A,2,0
+14,Crown Inoculation,Crown,A,3,0
+14,Crown Inoculation,Crown,A,4,0
+14,Crown Inoculation,Crown,A,5,0
+14,Crown Inoculation,Crown,A,6,0
+14,Crown Inoculation,Crown,A,7,0
+14,Crown Inoculation,Crown,B,1,0.03
+14,Crown Inoculation,Crown,B,2,0.03
+14,Crown Inoculation,Crown,B,3,0.03
+14,Crown Inoculation,Crown,B,4,0.03
+14,Crown Inoculation,Crown,B,5,0.03
+14,Crown Inoculation,Crown,B,6,0.03
+14,Crown Inoculation,Crown,B,7,0.03
+14,Crown Inoculation,Crown,C,1,0
+14,Crown Inoculation,Crown,C,2,0
+14,Crown Inoculation,Crown,C,3,0
+14,Crown Inoculation,Crown,C,4,0
+14,Crown Inoculation,Crown,C,5,0
+14,Crown Inoculation,Crown,C,6,0
+14,Crown Inoculation,Crown,C,7,0
+14,Crown Inoculation,Crown,D,1,0
+14,Crown Inoculation,Crown,D,2,0
+14,Crown Inoculation,Crown,D,3,0
+14,Crown Inoculation,Crown,D,4,0
+14,Crown Inoculation,Crown,D,5,0
+14,Crown Inoculation,Crown,D,6,0
+14,Crown Inoculation,Crown,D,7,0
+14,Crown Inoculation,Crown,E,1,0
+14,Crown Inoculation,Crown,E,2,0
+14,Crown Inoculation,Crown,E,3,0
+14,Crown Inoculation,Crown,E,4,0
+14,Crown Inoculation,Crown,E,5,0
+14,Crown Inoculation,Crown,E,6,0
+14,Crown Inoculation,Crown,E,7,0
+14,Crown Inoculation,Roots,A,1,0.15
+14,Crown Inoculation,Roots,A,2,0.15
+14,Crown Inoculation,Roots,A,3,0.15
+14,Crown Inoculation,Roots,A,4,0.15
+14,Crown Inoculation,Roots,A,5,0.15
+14,Crown Inoculation,Roots,A,6,0.15
+14,Crown Inoculation,Roots,A,7,0.15
+14,Crown Inoculation,Roots,B,1,0.15
+14,Crown Inoculation,Roots,B,2,0.15
+14,Crown Inoculation,Roots,B,3,0.15
+14,Crown Inoculation,Roots,B,4,0.15
+14,Crown Inoculation,Roots,B,5,0.15
+14,Crown Inoculation,Roots,B,6,0.15
+14,Crown Inoculation,Roots,B,7,0.15
+14,Crown Inoculation,Roots,C,1,0.15
+14,Crown Inoculation,Roots,C,2,0.15
+14,Crown Inoculation,Roots,C,3,0.15
+14,Crown Inoculation,Roots,C,4,0.15
+14,Crown Inoculation,Roots,C,5,0.15
+14,Crown Inoculation,Roots,C,6,0.15
+14,Crown Inoculation,Roots,C,7,0.15
+14,Crown Inoculation,Roots,D,1,0.15
+14,Crown Inoculation,Roots,D,2,0.15
+14,Crown Inoculation,Roots,D,3,0.15
+14,Crown Inoculation,Roots,D,4,0.15
+14,Crown Inoculation,Roots,D,5,0.15
+14,Crown Inoculation,Roots,D,6,0.15
+14,Crown Inoculation,Roots,D,7,0.15
+14,Crown Inoculation,Roots,E,1,0.15
+14,Crown Inoculation,Roots,E,2,0.15
+14,Crown Inoculation,Roots,E,3,0.15
+14,Crown Inoculation,Roots,E,4,0.15
+14,Crown Inoculation,Roots,E,5,0.15
+14,Crown Inoculation,Roots,E,6,0.15
+14,Crown Inoculation,Roots,E,7,0.15
+14,Root Inoculation,Crown,A,1,0.1
+14,Root Inoculation,Crown,A,2,0.1
+14,Root Inoculation,Crown,A,3,0.1
+14,Root Inoculation,Crown,A,4,0.1
+14,Root Inoculation,Crown,A,5,0.1
+14,Root Inoculation,Crown,A,6,0.1
+14,Root Inoculation,Crown,A,7,0.1
+14,Root Inoculation,Crown,B,1,0.15
+14,Root Inoculation,Crown,B,2,0.15
+14,Root Inoculation,Crown,B,3,0.15
+14,Root Inoculation,Crown,B,4,0.15
+14,Root Inoculation,Crown,B,5,0.15
+14,Root Inoculation,Crown,B,6,0.15
+14,Root Inoculation,Crown,B,7,0.15
+14,Root Inoculation,Crown,C,1,0.11
+14,Root Inoculation,Crown,C,2,0.11
+14,Root Inoculation,Crown,C,3,0.11
+14,Root Inoculation,Crown,C,4,0.11
+14,Root Inoculation,Crown,C,5,0.11
+14,Root Inoculation,Crown,C,6,0.11
+14,Root Inoculation,Crown,C,7,0.11
+14,Root Inoculation,Crown,D,1,0.08
+14,Root Inoculation,Crown,D,2,0.08
+14,Root Inoculation,Crown,D,3,0.08
+14,Root Inoculation,Crown,D,4,0.08
+14,Root Inoculation,Crown,D,5,0.08
+14,Root Inoculation,Crown,D,6,0.08
+14,Root Inoculation,Crown,D,7,0.08
+14,Root Inoculation,Crown,E,1,0.12
+14,Root Inoculation,Crown,E,2,0.12
+14,Root Inoculation,Crown,E,3,0.12
+14,Root Inoculation,Crown,E,4,0.12
+14,Root Inoculation,Crown,E,5,0.12
+14,Root Inoculation,Crown,E,6,0.12
+14,Root Inoculation,Crown,E,7,0.12
+14,Root Inoculation,Roots,A,1,0.12
+14,Root Inoculation,Roots,A,2,0.12
+14,Root Inoculation,Roots,A,3,0.12
+14,Root Inoculation,Roots,A,4,0.12
+14,Root Inoculation,Roots,A,5,0.12
+14,Root Inoculation,Roots,A,6,0.12
+14,Root Inoculation,Roots,A,7,0.12
+14,Root Inoculation,Roots,B,1,0.15
+14,Root Inoculation,Roots,B,2,0.15
+14,Root Inoculation,Roots,B,3,0.15
+14,Root Inoculation,Roots,B,4,0.15
+14,Root Inoculation,Roots,B,5,0.15
+14,Root Inoculation,Roots,B,6,0.15
+14,Root Inoculation,Roots,B,7,0.15
+14,Root Inoculation,Roots,C,1,0.15
+14,Root Inoculation,Roots,C,2,0.15
+14,Root Inoculation,Roots,C,3,0.15
+14,Root Inoculation,Roots,C,4,0.15
+14,Root Inoculation,Roots,C,5,0.15
+14,Root Inoculation,Roots,C,6,0.15
+14,Root Inoculation,Roots,C,7,0.15
+14,Root Inoculation,Roots,D,1,0.15
+14,Root Inoculation,Roots,D,2,0.15
+14,Root Inoculation,Roots,D,3,0.15
+14,Root Inoculation,Roots,D,4,0.15
+14,Root Inoculation,Roots,D,5,0.15
+14,Root Inoculation,Roots,D,6,0.15
+14,Root Inoculation,Roots,D,7,0.15
+14,Root Inoculation,Roots,E,1,0.15
+14,Root Inoculation,Roots,E,2,0.15
+14,Root Inoculation,Roots,E,3,0.15
+14,Root Inoculation,Roots,E,4,0.15
+14,Root Inoculation,Roots,E,5,0.15
+14,Root Inoculation,Roots,E,6,0.15
+14,Root Inoculation,Roots,E,7,0.15
+21,Control,Crown,A,1,0.12
+21,Control,Crown,A,2,0.12
+21,Control,Crown,A,3,0.12
+21,Control,Crown,A,4,0.12
+21,Control,Crown,A,5,0.12
+21,Control,Crown,A,6,0.12
+21,Control,Crown,A,7,0.12
+21,Control,Crown,B,1,0.15
+21,Control,Crown,B,2,0.15
+21,Control,Crown,B,3,0.15
+21,Control,Crown,B,4,0.15
+21,Control,Crown,B,5,0.15
+21,Control,Crown,B,6,0.15
+21,Control,Crown,B,7,0.15
+21,Control,Crown,C,1,0.05
+21,Control,Crown,C,2,0.05
+21,Control,Crown,C,3,0.05
+21,Control,Crown,C,4,0.05
+21,Control,Crown,C,5,0.05
+21,Control,Crown,C,6,0.05
+21,Control,Crown,C,7,0.05
+21,Control,Crown,D,1,0.15
+21,Control,Crown,D,2,0.15
+21,Control,Crown,D,3,0.15
+21,Control,Crown,D,4,0.15
+21,Control,Crown,D,5,0.15
+21,Control,Crown,D,6,0.15
+21,Control,Crown,D,7,0.15
+21,Control,Crown,E,1,0.12
+21,Control,Crown,E,2,0.12
+21,Control,Crown,E,3,0.12
+21,Control,Crown,E,4,0.12
+21,Control,Crown,E,5,0.12
+21,Control,Crown,E,6,0.12
+21,Control,Crown,E,7,0.12
+21,Control,Roots,A,1,0.04
+21,Control,Roots,A,2,0.04
+21,Control,Roots,A,3,0.04
+21,Control,Roots,A,4,0.04
+21,Control,Roots,A,5,0.04
+21,Control,Roots,A,6,0.04
+21,Control,Roots,A,7,0.04
+21,Control,Roots,B,1,0.15
+21,Control,Roots,B,2,0.15
+21,Control,Roots,B,3,0.15
+21,Control,Roots,B,4,0.15
+21,Control,Roots,B,5,0.15
+21,Control,Roots,B,6,0.15
+21,Control,Roots,B,7,0.15
+21,Control,Roots,C,1,0.13
+21,Control,Roots,C,2,0.13
+21,Control,Roots,C,3,0.13
+21,Control,Roots,C,4,0.13
+21,Control,Roots,C,5,0.13
+21,Control,Roots,C,6,0.13
+21,Control,Roots,C,7,0.13
+21,Control,Roots,D,1,0.15
+21,Control,Roots,D,2,0.15
+21,Control,Roots,D,3,0.15
+21,Control,Roots,D,4,0.15
+21,Control,Roots,D,5,0.15
+21,Control,Roots,D,6,0.15
+21,Control,Roots,D,7,0.15
+21,Control,Roots,E,1,0.15
+21,Control,Roots,E,2,0.15
+21,Control,Roots,E,3,0.15
+21,Control,Roots,E,4,0.15
+21,Control,Roots,E,5,0.15
+21,Control,Roots,E,6,0.15
+21,Control,Roots,E,7,0.15
+21,Crown Inoculation,Crown,A,1,0.12
+21,Crown Inoculation,Crown,A,2,0.12
+21,Crown Inoculation,Crown,A,3,0.12
+21,Crown Inoculation,Crown,A,4,0.12
+21,Crown Inoculation,Crown,A,5,0.12
+21,Crown Inoculation,Crown,A,6,0.12
+21,Crown Inoculation,Crown,A,7,0.12
+21,Crown Inoculation,Crown,B,1,0.08
+21,Crown Inoculation,Crown,B,2,0.08
+21,Crown Inoculation,Crown,B,3,0.08
+21,Crown Inoculation,Crown,B,4,0.08
+21,Crown Inoculation,Crown,B,5,0.08
+21,Crown Inoculation,Crown,B,6,0.08
+21,Crown Inoculation,Crown,B,7,0.08
+21,Crown Inoculation,Crown,C,1,0
+21,Crown Inoculation,Crown,C,2,0
+21,Crown Inoculation,Crown,C,3,0
+21,Crown Inoculation,Crown,C,4,0
+21,Crown Inoculation,Crown,C,5,0
+21,Crown Inoculation,Crown,C,6,0
+21,Crown Inoculation,Crown,C,7,0
+21,Crown Inoculation,Crown,D,1,0.1
+21,Crown Inoculation,Crown,D,2,0.1
+21,Crown Inoculation,Crown,D,3,0.1
+21,Crown Inoculation,Crown,D,4,0.1
+21,Crown Inoculation,Crown,D,5,0.1
+21,Crown Inoculation,Crown,D,6,0.1
+21,Crown Inoculation,Crown,D,7,0.1
+21,Crown Inoculation,Crown,E,1,0.11
+21,Crown Inoculation,Crown,E,2,0.11
+21,Crown Inoculation,Crown,E,3,0.11
+21,Crown Inoculation,Crown,E,4,0.11
+21,Crown Inoculation,Crown,E,5,0.11
+21,Crown Inoculation,Crown,E,6,0.11
+21,Crown Inoculation,Crown,E,7,0.11
+21,Crown Inoculation,Roots,A,1,0.15
+21,Crown Inoculation,Roots,A,2,0.15
+21,Crown Inoculation,Roots,A,3,0.15
+21,Crown Inoculation,Roots,A,4,0.15
+21,Crown Inoculation,Roots,A,5,0.15
+21,Crown Inoculation,Roots,A,6,0.15
+21,Crown Inoculation,Roots,A,7,0.15
+21,Crown Inoculation,Roots,B,1,0.15
+21,Crown Inoculation,Roots,B,2,0.15
+21,Crown Inoculation,Roots,B,3,0.15
+21,Crown Inoculation,Roots,B,4,0.15
+21,Crown Inoculation,Roots,B,5,0.15
+21,Crown Inoculation,Roots,B,6,0.15
+21,Crown Inoculation,Roots,B,7,0.15
+21,Crown Inoculation,Roots,C,1,0.15
+21,Crown Inoculation,Roots,C,2,0.15
+21,Crown Inoculation,Roots,C,3,0.15
+21,Crown Inoculation,Roots,C,4,0.15
+21,Crown Inoculation,Roots,C,5,0.15
+21,Crown Inoculation,Roots,C,6,0.15
+21,Crown Inoculation,Roots,C,7,0.15
+21,Crown Inoculation,Roots,D,1,0.15
+21,Crown Inoculation,Roots,D,2,0.15
+21,Crown Inoculation,Roots,D,3,0.15
+21,Crown Inoculation,Roots,D,4,0.15
+21,Crown Inoculation,Roots,D,5,0.15
+21,Crown Inoculation,Roots,D,6,0.15
+21,Crown Inoculation,Roots,D,7,0.15
+21,Crown Inoculation,Roots,E,1,0.15
+21,Crown Inoculation,Roots,E,2,0.15
+21,Crown Inoculation,Roots,E,3,0.15
+21,Crown Inoculation,Roots,E,4,0.15
+21,Crown Inoculation,Roots,E,5,0.15
+21,Crown Inoculation,Roots,E,6,0.15
+21,Crown Inoculation,Roots,E,7,0.15
+21,Root Inoculation,Crown,A,1,0.13
+21,Root Inoculation,Crown,A,2,0.13
+21,Root Inoculation,Crown,A,3,0.13
+21,Root Inoculation,Crown,A,4,0.13
+21,Root Inoculation,Crown,A,5,0.13
+21,Root Inoculation,Crown,A,6,0.13
+21,Root Inoculation,Crown,A,7,0.13
+21,Root Inoculation,Crown,B,1,0.15
+21,Root Inoculation,Crown,B,2,0.15
+21,Root Inoculation,Crown,B,3,0.15
+21,Root Inoculation,Crown,B,4,0.15
+21,Root Inoculation,Crown,B,5,0.15
+21,Root Inoculation,Crown,B,6,0.15
+21,Root Inoculation,Crown,B,7,0.15
+21,Root Inoculation,Crown,C,1,0.04
+21,Root Inoculation,Crown,C,2,0.04
+21,Root Inoculation,Crown,C,3,0.04
+21,Root Inoculation,Crown,C,4,0.04
+21,Root Inoculation,Crown,C,5,0.04
+21,Root Inoculation,Crown,C,6,0.04
+21,Root Inoculation,Crown,C,7,0.04
+21,Root Inoculation,Crown,D,1,0.11
+21,Root Inoculation,Crown,D,2,0.11
+21,Root Inoculation,Crown,D,3,0.11
+21,Root Inoculation,Crown,D,4,0.11
+21,Root Inoculation,Crown,D,5,0.11
+21,Root Inoculation,Crown,D,6,0.11
+21,Root Inoculation,Crown,D,7,0.11
+21,Root Inoculation,Crown,E,1,0.15
+21,Root Inoculation,Crown,E,2,0.15
+21,Root Inoculation,Crown,E,3,0.15
+21,Root Inoculation,Crown,E,4,0.15
+21,Root Inoculation,Crown,E,5,0.15
+21,Root Inoculation,Crown,E,6,0.15
+21,Root Inoculation,Crown,E,7,0.15
+21,Root Inoculation,Roots,A,1,0.15
+21,Root Inoculation,Roots,A,2,0.15
+21,Root Inoculation,Roots,A,3,0.15
+21,Root Inoculation,Roots,A,4,0.15
+21,Root Inoculation,Roots,A,5,0.15
+21,Root Inoculation,Roots,A,6,0.15
+21,Root Inoculation,Roots,A,7,0.15
+21,Root Inoculation,Roots,B,1,0.15
+21,Root Inoculation,Roots,B,2,0.15
+21,Root Inoculation,Roots,B,3,0.15
+21,Root Inoculation,Roots,B,4,0.15
+21,Root Inoculation,Roots,B,5,0.15
+21,Root Inoculation,Roots,B,6,0.15
+21,Root Inoculation,Roots,B,7,0.15
+21,Root Inoculation,Roots,C,1,0.15
+21,Root Inoculation,Roots,C,2,0.15
+21,Root Inoculation,Roots,C,3,0.15
+21,Root Inoculation,Roots,C,4,0.15
+21,Root Inoculation,Roots,C,5,0.15
+21,Root Inoculation,Roots,C,6,0.15
+21,Root Inoculation,Roots,C,7,0.15
+21,Root Inoculation,Roots,D,1,0.15
+21,Root Inoculation,Roots,D,2,0.15
+21,Root Inoculation,Roots,D,3,0.15
+21,Root Inoculation,Roots,D,4,0.15
+21,Root Inoculation,Roots,D,5,0.15
+21,Root Inoculation,Roots,D,6,0.15
+21,Root Inoculation,Roots,D,7,0.15
+21,Root Inoculation,Roots,E,1,0.15
+21,Root Inoculation,Roots,E,2,0.15
+21,Root Inoculation,Roots,E,3,0.15
+21,Root Inoculation,Roots,E,4,0.15
+21,Root Inoculation,Roots,E,5,0.15
+21,Root Inoculation,Roots,E,6,0.15
+21,Root Inoculation,Roots,E,7,0.15
+28,Control,Crown,A,1,0.15
+28,Control,Crown,A,2,0.15
+28,Control,Crown,A,3,0.15
+28,Control,Crown,A,4,0.15
+28,Control,Crown,A,5,0.15
+28,Control,Crown,A,6,0.15
+28,Control,Crown,A,7,0.15
+28,Control,Crown,B,1,0.05
+28,Control,Crown,B,2,0.05
+28,Control,Crown,B,3,0.05
+28,Control,Crown,B,4,0.05
+28,Control,Crown,B,5,0.05
+28,Control,Crown,B,6,0.05
+28,Control,Crown,B,7,0.05
+28,Control,Crown,C,1,0.1
+28,Control,Crown,C,2,0.1
+28,Control,Crown,C,3,0.1
+28,Control,Crown,C,4,0.1
+28,Control,Crown,C,5,0.1
+28,Control,Crown,C,6,0.1
+28,Control,Crown,C,7,0.1
+28,Control,Crown,D,1,0.1
+28,Control,Crown,D,2,0.1
+28,Control,Crown,D,3,0.1
+28,Control,Crown,D,4,0.1
+28,Control,Crown,D,5,0.1
+28,Control,Crown,D,6,0.1
+28,Control,Crown,D,7,0.1
+28,Control,Crown,E,1,0.06
+28,Control,Crown,E,2,0.06
+28,Control,Crown,E,3,0.06
+28,Control,Crown,E,4,0.06
+28,Control,Crown,E,5,0.06
+28,Control,Crown,E,6,0.06
+28,Control,Crown,E,7,0.06
+28,Control,Roots,A,1,0.15
+28,Control,Roots,A,2,0.15
+28,Control,Roots,A,3,0.15
+28,Control,Roots,A,4,0.15
+28,Control,Roots,A,5,0.15
+28,Control,Roots,A,6,0.15
+28,Control,Roots,A,7,0.15
+28,Control,Roots,B,1,0.15
+28,Control,Roots,B,2,0.15
+28,Control,Roots,B,3,0.15
+28,Control,Roots,B,4,0.15
+28,Control,Roots,B,5,0.15
+28,Control,Roots,B,6,0.15
+28,Control,Roots,B,7,0.15
+28,Control,Roots,C,1,0.15
+28,Control,Roots,C,2,0.15
+28,Control,Roots,C,3,0.15
+28,Control,Roots,C,4,0.15
+28,Control,Roots,C,5,0.15
+28,Control,Roots,C,6,0.15
+28,Control,Roots,C,7,0.15
+28,Control,Roots,D,1,0.15
+28,Control,Roots,D,2,0.15
+28,Control,Roots,D,3,0.15
+28,Control,Roots,D,4,0.15
+28,Control,Roots,D,5,0.15
+28,Control,Roots,D,6,0.15
+28,Control,Roots,D,7,0.15
+28,Control,Roots,E,1,0.15
+28,Control,Roots,E,2,0.15
+28,Control,Roots,E,3,0.15
+28,Control,Roots,E,4,0.15
+28,Control,Roots,E,5,0.15
+28,Control,Roots,E,6,0.15
+28,Control,Roots,E,7,0.15
+28,Crown Inoculation,Crown,A,1,0.06
+28,Crown Inoculation,Crown,A,2,0.06
+28,Crown Inoculation,Crown,A,3,0.06
+28,Crown Inoculation,Crown,A,4,0.06
+28,Crown Inoculation,Crown,A,5,0.06
+28,Crown Inoculation,Crown,A,6,0.06
+28,Crown Inoculation,Crown,A,7,0.06
+28,Crown Inoculation,Crown,B,1,0.15
+28,Crown Inoculation,Crown,B,2,0.15
+28,Crown Inoculation,Crown,B,3,0.15
+28,Crown Inoculation,Crown,B,4,0.15
+28,Crown Inoculation,Crown,B,5,0.15
+28,Crown Inoculation,Crown,B,6,0.15
+28,Crown Inoculation,Crown,B,7,0.15
+28,Crown Inoculation,Crown,C,1,0.07
+28,Crown Inoculation,Crown,C,2,0.07
+28,Crown Inoculation,Crown,C,3,0.07
+28,Crown Inoculation,Crown,C,4,0.07
+28,Crown Inoculation,Crown,C,5,0.07
+28,Crown Inoculation,Crown,C,6,0.07
+28,Crown Inoculation,Crown,C,7,0.07
+28,Crown Inoculation,Crown,D,1,0.15
+28,Crown Inoculation,Crown,D,2,0.15
+28,Crown Inoculation,Crown,D,3,0.15
+28,Crown Inoculation,Crown,D,4,0.15
+28,Crown Inoculation,Crown,D,5,0.15
+28,Crown Inoculation,Crown,D,6,0.15
+28,Crown Inoculation,Crown,D,7,0.15
+28,Crown Inoculation,Crown,E,1,0.15
+28,Crown Inoculation,Crown,E,2,0.15
+28,Crown Inoculation,Crown,E,3,0.15
+28,Crown Inoculation,Crown,E,4,0.15
+28,Crown Inoculation,Crown,E,5,0.15
+28,Crown Inoculation,Crown,E,6,0.15
+28,Crown Inoculation,Crown,E,7,0.15
+28,Crown Inoculation,Roots,A,1,0.15
+28,Crown Inoculation,Roots,A,2,0.15
+28,Crown Inoculation,Roots,A,3,0.15
+28,Crown Inoculation,Roots,A,4,0.15
+28,Crown Inoculation,Roots,A,5,0.15
+28,Crown Inoculation,Roots,A,6,0.15
+28,Crown Inoculation,Roots,A,7,0.15
+28,Crown Inoculation,Roots,B,1,0.15
+28,Crown Inoculation,Roots,B,2,0.15
+28,Crown Inoculation,Roots,B,3,0.15
+28,Crown Inoculation,Roots,B,4,0.15
+28,Crown Inoculation,Roots,B,5,0.15
+28,Crown Inoculation,Roots,B,6,0.15
+28,Crown Inoculation,Roots,B,7,0.15
+28,Crown Inoculation,Roots,C,1,0.15
+28,Crown Inoculation,Roots,C,2,0.15
+28,Crown Inoculation,Roots,C,3,0.15
+28,Crown Inoculation,Roots,C,4,0.15
+28,Crown Inoculation,Roots,C,5,0.15
+28,Crown Inoculation,Roots,C,6,0.15
+28,Crown Inoculation,Roots,C,7,0.15
+28,Crown Inoculation,Roots,D,1,0.15
+28,Crown Inoculation,Roots,D,2,0.15
+28,Crown Inoculation,Roots,D,3,0.15
+28,Crown Inoculation,Roots,D,4,0.15
+28,Crown Inoculation,Roots,D,5,0.15
+28,Crown Inoculation,Roots,D,6,0.15
+28,Crown Inoculation,Roots,D,7,0.15
+28,Crown Inoculation,Roots,E,1,0.15
+28,Crown Inoculation,Roots,E,2,0.15
+28,Crown Inoculation,Roots,E,3,0.15
+28,Crown Inoculation,Roots,E,4,0.15
+28,Crown Inoculation,Roots,E,5,0.15
+28,Crown Inoculation,Roots,E,6,0.15
+28,Crown Inoculation,Roots,E,7,0.15
+28,Root Inoculation,Crown,A,1,0.13
+28,Root Inoculation,Crown,A,2,0.13
+28,Root Inoculation,Crown,A,3,0.13
+28,Root Inoculation,Crown,A,4,0.13
+28,Root Inoculation,Crown,A,5,0.13
+28,Root Inoculation,Crown,A,6,0.13
+28,Root Inoculation,Crown,A,7,0.13
+28,Root Inoculation,Crown,B,1,0.15
+28,Root Inoculation,Crown,B,2,0.15
+28,Root Inoculation,Crown,B,3,0.15
+28,Root Inoculation,Crown,B,4,0.15
+28,Root Inoculation,Crown,B,5,0.15
+28,Root Inoculation,Crown,B,6,0.15
+28,Root Inoculation,Crown,B,7,0.15
+28,Root Inoculation,Crown,C,1,0.1
+28,Root Inoculation,Crown,C,2,0.1
+28,Root Inoculation,Crown,C,3,0.1
+28,Root Inoculation,Crown,C,4,0.1
+28,Root Inoculation,Crown,C,5,0.1
+28,Root Inoculation,Crown,C,6,0.1
+28,Root Inoculation,Crown,C,7,0.1
+28,Root Inoculation,Crown,D,1,0.07
+28,Root Inoculation,Crown,D,2,0.07
+28,Root Inoculation,Crown,D,3,0.07
+28,Root Inoculation,Crown,D,4,0.07
+28,Root Inoculation,Crown,D,5,0.07
+28,Root Inoculation,Crown,D,6,0.07
+28,Root Inoculation,Crown,D,7,0.07
+28,Root Inoculation,Crown,E,1,0.15
+28,Root Inoculation,Crown,E,2,0.15
+28,Root Inoculation,Crown,E,3,0.15
+28,Root Inoculation,Crown,E,4,0.15
+28,Root Inoculation,Crown,E,5,0.15
+28,Root Inoculation,Crown,E,6,0.15
+28,Root Inoculation,Crown,E,7,0.15
+28,Root Inoculation,Roots,A,1,0.15
+28,Root Inoculation,Roots,A,2,0.15
+28,Root Inoculation,Roots,A,3,0.15
+28,Root Inoculation,Roots,A,4,0.15
+28,Root Inoculation,Roots,A,5,0.15
+28,Root Inoculation,Roots,A,6,0.15
+28,Root Inoculation,Roots,A,7,0.15
+28,Root Inoculation,Roots,B,1,0.15
+28,Root Inoculation,Roots,B,2,0.15
+28,Root Inoculation,Roots,B,3,0.15
+28,Root Inoculation,Roots,B,4,0.15
+28,Root Inoculation,Roots,B,5,0.15
+28,Root Inoculation,Roots,B,6,0.15
+28,Root Inoculation,Roots,B,7,0.15
+28,Root Inoculation,Roots,C,1,0.15
+28,Root Inoculation,Roots,C,2,0.15
+28,Root Inoculation,Roots,C,3,0.15
+28,Root Inoculation,Roots,C,4,0.15
+28,Root Inoculation,Roots,C,5,0.15
+28,Root Inoculation,Roots,C,6,0.15
+28,Root Inoculation,Roots,C,7,0.15
+28,Root Inoculation,Roots,D,1,0.12
+28,Root Inoculation,Roots,D,2,0.12
+28,Root Inoculation,Roots,D,3,0.12
+28,Root Inoculation,Roots,D,4,0.12
+28,Root Inoculation,Roots,D,5,0.12
+28,Root Inoculation,Roots,D,6,0.12
+28,Root Inoculation,Roots,D,7,0.12
+28,Root Inoculation,Roots,E,1,0.15
+28,Root Inoculation,Roots,E,2,0.15
+28,Root Inoculation,Roots,E,3,0.15
+28,Root Inoculation,Roots,E,4,0.15
+28,Root Inoculation,Roots,E,5,0.15
+28,Root Inoculation,Roots,E,6,0.15
+28,Root Inoculation,Roots,E,7,0.15
