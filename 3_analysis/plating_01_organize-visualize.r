@@ -23,7 +23,7 @@ conflict_prefer("filter", "dplyr")
 conflict_prefer("lag", "dplyr")
 conflict_prefer("spread", "tidyr")
 
-setwd("/home/sb-mac-infection")
+setwd("/home/strawberry-macrophomina-infection")
 
 
 ################
@@ -163,7 +163,7 @@ setwd("/home/sb-mac-infection")
 			mutate(across(c(crown_1:roots_4), ~ replace_na(.x, 0) ) ) 
 			
 			# export
-			write_csv(summ.1.ct, file="./4_results/01_summary_tissue-weight-counts.csv", col_names=T, na="NA", append=F)	
+			write_csv(summ.1.ct, file="./4_output/01_summary_tissue-weight-counts.csv", col_names=T, na="NA", append=F)	
 		
 		# weight groups
 			# by trial - for results text (roots)
@@ -302,7 +302,7 @@ setwd("/home/sb-mac-infection")
 
 ### prepare annotations - interaction letters
 	## import
-	mean.letter = read_csv(file="./4_results_external/plating-roots_F_step-1-1_sas-output_mean-let - plating.csv", col_names=T, na=c("NA",""))
+	mean.letter = read_csv(file="./4_output_external/plating-roots_F_step-1-1_sas-output_mean-let - plating.csv", col_names=T, na=c("NA",""))
 
 	## change column type
 	mean.letter = mean.letter %>% mutate(trial=as.character(trial), timepoint=as.integer(timepoint) )
@@ -363,7 +363,7 @@ setwd("/home/sb-mac-infection")
 		theme(strip.text=element_text(size=base.size+1) ) +
 		labs(x="Sample timepoint (days post inoculation)", y="Amount of M. phaseolina (colonies/g)")
 	}
-	ggplot2::ggsave(file="./4_results/plating_01_sample_roots.png", device="png", plot=plot.roots, width=7, height=6.5, units="in", dpi=600)
+	ggplot2::ggsave(file="./4_output/plating_01_sample_roots.png", device="png", plot=plot.roots, width=7, height=6.5, units="in", dpi=600)
 
 ### crown
 	## trials 1,2,4
@@ -405,7 +405,7 @@ setwd("/home/sb-mac-infection")
 	
 	plot.crown = wrap_plots(plot.crown.124, plot.crown.r, nrow=1, widths=c(3.1,1) )
 	
-	ggplot2::ggsave(file="./4_results/plating_01_sample_crown.png", device="png", plot=plot.crown, width=7, height=6.5, units="in", dpi=600)
+	ggplot2::ggsave(file="./4_output/plating_01_sample_crown.png", device="png", plot=plot.crown, width=7, height=6.5, units="in", dpi=600)
 
 
 ##############################
@@ -513,7 +513,7 @@ setwd("/home/sb-mac-infection")
 		theme(strip.text=element_text(size=base.size+1) ) +
 		labs(x="Inoculation Treatment", y="Amount of M. phaseolina (colonies/g)")
 
-	ggplot2::ggsave(file="./4_results/plating_01_wash-test_sample.png", device="png", plot=plot.test, width=3.25, height=3.5, units="in", dpi=600)
+	ggplot2::ggsave(file="./4_output/plating_01_wash-test_sample.png", device="png", plot=plot.test, width=3.25, height=3.5, units="in", dpi=600)
 
 
 ##############################
@@ -606,7 +606,7 @@ setwd("/home/sb-mac-infection")
 #	p.c = wrap_plots(p.c.1.1, p.c.1.2, p.c.2.1, p.c.2.2, nrow=1, widths=c(1,4,1,4), guides="collect" ) +
 #		plot_annotation(theme=theme(legend.position="bottom"))		
 #	
-#	ggplot2::ggsave(file="./4_results/plating_01_samp_experiment-wash-combined.png", device="png", plot=p.c, width=7, height=6.5, units="in", dpi=600)
+#	ggplot2::ggsave(file="./4_output/plating_01_samp_experiment-wash-combined.png", device="png", plot=p.c, width=7, height=6.5, units="in", dpi=600)
 
 ### combined - all dpi
 	## facet labels
@@ -684,5 +684,5 @@ setwd("/home/sb-mac-infection")
 
 	p.c2 = wrap_plots(p.c2.1, p.c2.2, ncol=1)
 	
-	ggplot2::ggsave(file="./4_results/plating_01_combined-all_experiment-wash_roots.png", device="png", plot=p.c2, width=7, height=8, units="in", dpi=600)
+	ggplot2::ggsave(file="./4_output/plating_01_combined-all_experiment-wash_roots.png", device="png", plot=p.c2, width=7, height=8, units="in", dpi=600)
 
