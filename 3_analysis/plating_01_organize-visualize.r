@@ -488,6 +488,17 @@ setwd("/home/strawberry-macrophomina-infection")
 		summarize(colonies_mean_per_g=mean(colonies_sum_per_g) ) %>%
 		ungroup()
 
+### 5. by sample - factor difference between trials 1,2 and 3,4 and wash
+	# treatment
+	summ.5 %>%
+		left_join(summ.test.3) %>%
+		rename(test=colonies_mean_per_g) %>%
+		select(
+			treatment, tissue, trial_1, trial_2, trial_3, trial_4, test, 
+			factor_diff_1v3, factor_diff_1v4, factor_diff_2v3, factor_diff_2v4, 
+			-trial, -timepoint) %>%
+		arrange(tissue, treatment)
+
 
 ###############################
 #### Wash Test - Visualize ####
