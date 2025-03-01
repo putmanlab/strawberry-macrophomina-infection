@@ -364,6 +364,7 @@ setwd("/home/strawberry-macrophomina-infection")
 		labs(x="Sample timepoint (days post inoculation)", y="Amount of M. phaseolina (colonies/g)")
 	}
 	ggplot2::ggsave(file="./4_output/plating_01_sample_roots.png", device="png", plot=plot.roots, width=7, height=6.5, units="in", dpi=600)
+	ggplot2::ggsave(file="./4_output/Pedroncelli strawberry Mac infection fig-1.tif", device="tiff", plot=plot.roots, width=7, height=6.5, units="in", dpi=500, compression="lzw")
 
 ### crown
 	## trials 1,2,4
@@ -406,6 +407,7 @@ setwd("/home/strawberry-macrophomina-infection")
 	plot.crown = wrap_plots(plot.crown.124, plot.crown.r, nrow=1, widths=c(3.1,1) )
 	
 	ggplot2::ggsave(file="./4_output/plating_01_sample_crown.png", device="png", plot=plot.crown, width=7, height=6.5, units="in", dpi=600)
+	ggplot2::ggsave(file="./4_output/Pedroncelli strawberry Mac infection fig-2.tif", device="tiff", plot=plot.crown, width=7, height=6.5, units="in", dpi=500, compression="lzw")
 
 
 ##############################
@@ -525,6 +527,7 @@ setwd("/home/strawberry-macrophomina-infection")
 		labs(x="Inoculation Treatment", y="Amount of M. phaseolina (colonies/g)")
 
 	ggplot2::ggsave(file="./4_output/plating_01_wash-test_sample.png", device="png", plot=plot.test, width=3.25, height=3.5, units="in", dpi=600)
+	ggplot2::ggsave(file="./4_output/Pedroncelli strawberry Mac infection fig-3.tif", device="tiff", plot=plot.test, width=3.25, height=3.5, units="in", dpi=500, compression="lzw")
 
 
 ##############################
